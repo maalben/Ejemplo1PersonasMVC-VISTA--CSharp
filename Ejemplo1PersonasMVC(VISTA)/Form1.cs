@@ -12,7 +12,6 @@ namespace Ejemplo1PersonasMVC_VISTA_
 {
     public partial class Form1 : Form
     {
-
         PersonasDAO personasDAO = null;
         PersonasDTO personasDTO = null;
         DataTable dataTable = null;

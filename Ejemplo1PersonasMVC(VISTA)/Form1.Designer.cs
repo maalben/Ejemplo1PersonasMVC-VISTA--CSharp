@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+
             this.label1 = new System.Windows.Forms.Label();
             this.dtpersonas = new System.Windows.Forms.DataGridView();
             this.cedula = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -99,6 +100,9 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn cedula;
         private System.Windows.Forms.DataGridViewTextBoxColumn nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn edad;
+        }
+
+        
     }
-}
+
 
