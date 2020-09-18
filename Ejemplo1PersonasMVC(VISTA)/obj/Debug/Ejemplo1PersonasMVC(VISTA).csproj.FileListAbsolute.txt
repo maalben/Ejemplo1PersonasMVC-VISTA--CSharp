@@ -12,3 +12,17 @@ C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Ejemplo1Personas
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).csproj.CopyComplete
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).exe
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Ejemplo1PersonasMVC(VISTA).exe
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Ejemplo1PersonasMVC(VISTA).pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Controlador.dll
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Modelo.dll
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Controlador.pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\bin\Debug\Modelo.pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).csprojAssemblyReference.cache
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC_VISTA_.Form1.resources
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC_VISTA_.Properties.Resources.resources
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).csproj.GenerateResource.cache
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).csproj.CoreCompileInputs.cache
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).csproj.CopyComplete
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).exe
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Ejemplo1PersonasMVC(VISTA)\obj\Debug\Ejemplo1PersonasMVC(VISTA).pdb

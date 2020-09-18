@@ -22,7 +22,7 @@ namespace Modelo
         //Se usa el atributo cadenaConexion para indicar hacia
         //donde se realizará la comunicación con la base de datos
         public ClaseDatos() {
-            this.cadenaConexion = @"Data Source=SALA503-1;Initial Catalog=bdejemplomvc1;Integrated Security=True";
+            this.cadenaConexion = @"Data Source=DESKTOP-H0N5B2Q\SQLEXPRESS;Initial Catalog=bdejemplomvc1;Integrated Security=True";
         }
         #endregion
 

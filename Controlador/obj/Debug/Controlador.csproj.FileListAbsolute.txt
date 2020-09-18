@@ -7,3 +7,12 @@ C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Controlador\obj\
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Controlador\obj\Debug\Controlador.csproj.CopyComplete
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Controlador\obj\Debug\Controlador.dll
 C:\Users\Contabilidad\Desktop\Ejemplo1PersonasMVC-VISTA--CSharp\Controlador\obj\Debug\Controlador.pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\bin\Debug\Controlador.dll
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\bin\Debug\Controlador.pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\bin\Debug\Modelo.dll
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\bin\Debug\Modelo.pdb
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\obj\Debug\Controlador.dll
+D:\MyPersonalData\Escritorio\Proyecto_CSharp\Ejemplo1PersonasMVC(VISTA)\Controlador\obj\Debug\Controlador.pdb
